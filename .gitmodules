@@ -4,3 +4,9 @@
 [submodule "pack/nerd/start/nerdtree"]
 	path = pack/nerd/start/nerdtree
 	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/airline/start/vim-airline"]
+	path = pack/airline/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "pack/airblade/start/vim-gitgutter"]
+	path = pack/airblade/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
